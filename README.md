@@ -90,12 +90,12 @@ Main Menu:
 
 ### Compile
 ```bash
-javac CurrencyConverter.java
+javac RUN_CURRENCY.java
 ```
 
 ### Run
 ```bash
-java CurrencyConverter
+java RUN_CURRENCY
 ```
 
 ---
